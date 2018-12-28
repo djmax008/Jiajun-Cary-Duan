@@ -12,28 +12,27 @@ weight = 5
   interests = [
     "Power System Analysis",
     "Artificial Intelligence",
-    "Algorithm",
-    "Data Processing"
+    "Microgrid",
+    "Control Theory"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Electric and Computer Engineering"
-  institution = "Cornell University"
-  year = 2016
+  institution = "Lehigh University"
+  year = 2018
 
 [[education.courses]]
   course = "MEng in Electric and Computer Engineering"
-  institution = "Carnegie Mellon University"
-  year = 2010
+  institution = "Lehigh Univeristy"
+  year = 2015
 
 [[education.courses]]
   course = "BSc in Electric Engineering"
-  institution = "Tsinghua University"
-  year = 2009
+  institution = "Sichuan University"
+  year = 2013
  
 +++
 
 # Biography
-Zhe Yu joined Global Energy Interconnection Research Institute North America (GEIRI North America) in 2017. His current research
-interests focus on power system and smart grid, demand response, dynamic programming, data processing, and optimization.
+Jiajun Duan was born in Lanzhou, China, in 1990. He received his B.S. degree in Power system and its automation from Sichuan University, Chengdu, China, and M.S. degree in in Electrical Engineering at Lehigh University, Bethlehem, PA in 2013 and 2015, respectively, and the Ph.D. degree in Electrical Engineering from Lehigh University in 2018. Currently, he is a postdoc researcher in GEIRINA, San Jose, CA, USA. His research interest includes power system, power electronics, control systems, machine learning and deep learning.
