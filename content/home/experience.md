@@ -19,32 +19,34 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoc Reseacher"
+  title = "Research Engineer"
   company = "GEIRI North America"
   company_url = "www.geirina.net"
-  location = "San Jose, CA"
-  date_start = "2018-06-01"
+  location = "San Jose, California"
+  date_start = "2017-02-06"
   date_end = ""
-  description = """Dr. Duan has been employed at GEIRI North America since June of 2018. In his position, he is responsible for control algorithm developments. Particularly, he is working on artificial intelligence based power grid autonomous control system using the cutting-edge deep reinforcement learning technology from DeepMind.
+  description = """Dr. Yu has been employed at GEIRI North America since February of 2017. In his position, he is responsible for data analysis and algorithm developments. Particularly, he is working on bad data detection, data process and analysis, pattern recognition, pattern extraction, training of AI models, and algorithm design. He is also developing software to implement algorithms and visualizing the analysis results. 
   Responsibilities include: 
   
-  * AI
-  * Control Theory
-  * Deep Reinforcement Learning
+  * Data Processing
+  * Model Training
+  * R&D
   """
 
 [[experience]]
   title = "Research Assistant"
-  company = "Lehigh University"
-  company_url = "www1.lehigh.edu/"
-  location = "Bethlehem, PA"
-  date_start = "2015-01-01"
-  date_end = "2018-05-01"
-  description = """In this research position, Dr. Duan performed various duties: 
-  * Developed an adaptive microgrid management systems. The secondary and primary controllers are designed in a decentralized way to realize proper load sharing and plug-and-play functions with unknown system parameters. The proposed control can guarantee that the desired generation references of tertiary control can be accurately achieved. 
-  * Reduced the overshoot of transient voltage/current up to 30% for AC/DC microgrids with inverter-interfaced DGs based on advanced control designs. Performed the switch-level real time simulation using RT-Lab. 
-  * Resolved the impact of pulsed power load in the shipboard power system by introducing and applying the Zero-Sum Game Theory. Accomplished the demonstration with both real time simulation and hardware-in-the-loop experiments. 
-  * Achieved optimal control of parallel uninterruptible power supply (UPS) system by designing a Neuro Network algorithm to train the unknown system dynamics.
+  company = "Cornell University"
+  company_url = "www.cornell.edu"
+  location = "Ithaca, New York"
+  date_start = "2011-01-01"
+  date_end = "2016-12-31"
+  description = """In this research position, Dr. Yu performed various duties, including teaching assistant (TA) and research assistant (RA). As a TA, he helped me to prepare lectures, give recitations, lead labs, and design exams. As a RA, he is responsible to formulate problems, collect and process data, build and validate models, develop algorithms and control, carry out numerical experiments, write paper, and present results. 
+  Responsibilities include: 
+
+  * Analysing
+  * Modelling
+  * Algorithm Design
+  * Course Teaching
   """
   
 +++
