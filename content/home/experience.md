@@ -46,19 +46,4 @@ date_format = "January 2006"
   * Resolved the impact of pulsed power load in the shipboard power system by introducing and applying the Zero-Sum Game Theory. Accomplished the demonstration with both real time simulation and hardware-in-the-loop experiments. 
   * Achieved optimal control of parallel uninterruptible power supply (UPS) system by designing a Neuro Network algorithm to train the unknown system dynamics.
   """
- 
- [[experience]]
-  title = "Associate Design Engineer"
-  company = "Conti Corp Inc."
-  company_url = "http://conticorporation.com/"
-  location = "Worcester, MA"
-  date_start = "2016-05-01"
-  date_end = "2016-08-01"
-  description = """In this intern position, Dr. Duan performed various duties: 
-*	Collaborated in designing a hybrid PV panel deployment solution and reduced the total cost by over $9 million, with consideration of shading, power balancing and converter matching constraints.
-*	Managed and monitored timeline of the program， generated daily status report and presented to the leadership. 
-*	Supervised and interacted with 12 subcontracting companies to achieve the project milestones. 
-*	Mapped over 70,000 barcodes including solar panels, inverters, and optimizers into 1,603 subsystem drawings with AutoCAD, and composed placed-in-order letters and safety reports. 
-
-  """
 +++
