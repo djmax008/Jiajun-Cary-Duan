@@ -22,21 +22,21 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "cuttlefish"
+  icon = "fa-python"
   icon_pack = "fab"
-  name = "C/C++"
-  description = "90%"
+  name = "Python"
+  description = "80%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "70%"  
+  name = "Simulink/Matlab"
+  description = "99%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "OPRT/DSpace"
+  description = "70%"
 
 +++
