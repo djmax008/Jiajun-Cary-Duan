@@ -4,7 +4,7 @@ date = 2011-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L Jia", "Z Yu", "MC Murphy-Hoye", "A Pratt", "EG Piccioli", "L Tong"]
+authors = ["Jiajun Duan", "Kaifeng Zhang", "Liang Cheng"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["L Jia", "Z Yu", "MC Murphy-Hoye", "A Pratt", "EG Piccioli", "L Tong"
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceediongs of the 4th IEEE International Workshop on *Computational Advances in Multi-Sensor Adaptive Processing*, IEEE."
-publication_short = "In *CAMSAP*"
+publication = "IEEE Transactions on Smart Grid."
+publication_short = "In *TSG*"
 
 # Abstract and optional shortened version.
-abstract = "The problem of scheduling and control of appliances for Home Energy Management (HEM) is considered. A multi-time scale and multi-stage stochastic optimization framework is proposed for the control of the Heating, Ventilation, and Air Conditioning (HVAC) unit, the charging of Plug-in Hybrid Electric Vehicle (PHEV), and the scheduling of deferrable load such as washer/dryer operations. Formulated as a constrained stochastic optimization that incorporates thermal dynamics, temperature measurements, and the real time pricing signal, a model predictive control algorithm is proposed that minimizes customer's discomfort level subject to cost and peak power constraints."
-abstract_short = "The problem of scheduling and control of appliances for Home Energy Management (HEM) is considered. "
+abstract = "This paper presents a novel fault location method for single-phase microgrids. In order to locate a fault, a feature specific to the fault location is found, namely the maximum oscillation magnitude of the transient voltage signal induced by the fault. Our theoretical study and extensive simulations demonstrate that there is an approximated linear relationship between the maximum magnitude of the transient signal observed by a sensor, and the distance between the sensor and the fault location. Based on the discovered relationship, microgrid topology and sensor location information, we have designed an algorithm capable of locating the fault in the single-phase microgrids. The proposed fault location method has been implemented and validated through simulations in Electro-Magnetic Transients Program and MATLAB. The average localization error is less than 10% in the evaluation results, which manifests the significance of the novel method, as there is little research done for fault location in single-phase microgrids."
+abstract_short = "This paper presents a novel fault location method for single-phase microgrids. "
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = ture
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,7 +34,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["home-energy-management"]
+projects = ["Fault Location of Microgrids"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -42,15 +42,15 @@ projects = ["home-energy-management"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides = "example-slides"
+#slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Machine Learning","HEMS","Model Identification and Validation"]
+tags = ["Data Analysis","Microgrid"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6135900"
-url_preprint = "https://zheyu.netlify.com/publication/2011CAMSAP/HEM-campsap.pdf"
+url_pdf = "https://ieeexplore.ieee.org/document/7294716"
+url_preprint = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7294716"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
@@ -64,7 +64,7 @@ url_preprint = "https://zheyu.netlify.com/publication/2011CAMSAP/HEM-campsap.pdf
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/CAMSAP.2011.6135900"
+doi = "10.1109/TSG.2015.2480065"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
