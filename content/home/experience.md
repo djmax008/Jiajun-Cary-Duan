@@ -50,7 +50,7 @@ date_format = "January 2006"
  [[experience]]
   title = "Associate Design Engineer"
   company = "Conti Corp Inc."
-  company_url = "www1.lehigh.edu/"
+  company_url = "http://conticorporation.com/"
   location = "Worcester, MA"
   date_start = "2016-05"
   date_end = "2016-08"
