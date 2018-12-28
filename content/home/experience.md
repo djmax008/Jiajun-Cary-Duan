@@ -46,4 +46,5 @@ date_format = "January 2006"
   * Resolved the impact of pulsed power load in the shipboard power system by introducing and applying the Zero-Sum Game Theory. Accomplished the demonstration with both real time simulation and hardware-in-the-loop experiments. 
   * Achieved optimal control of parallel uninterruptible power supply (UPS) system by designing a Neuro Network algorithm to train the unknown system dynamics.
   """
+  
 +++
