@@ -1,10 +1,10 @@
 +++
-title = "Modeling and Stochastic Control for Home Energy Management"
+title = "Q-Learning-Based Damping Control of Wide-Area Power Systems Under Cyber Uncertainties"
 date = 2012-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Zhe Yu", "L McLaughlin", "L Jia", "MC Murphy-Hoye", "A Pratt", "L Tong"]
+authors = ["Jiajun Duan", "Hao Xu", "Wenxin Liu"]
 
 # Publication type.
 # Legend:
@@ -15,18 +15,18 @@ authors = ["Zhe Yu", "L McLaughlin", "L Jia", "MC Murphy-Hoye", "A Pratt", "L To
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceediongs of *Power and Energy Society (PES) GEneral Meeting*, IEEE."
-publication_short = "In *PESGM*"
+publication = "IEEE Transactions on Smart Grid"
+publication_short = "In *TSG*"
 
 # Abstract and optional shortened version.
-abstract = "The problem of modeling and stochastic optimization for home energy management is considered. Several different types of load classes are discussed, including heating, ventilation, and air conditioning unit, plug-in hybrid electric vehicle, and deferrable loads such as washer and dryer. A first-order thermal dynamic model is extracted and validated using real measurements collected over an eight months time span. A mixed integer multi-time scale stochastic optimization is formulated for the scheduling of loads of different characteristics. A model predictive control based heuristic is proposed. Numerical simulations coupled with real data measurements are used for performance evaluation and comparison studies."
-abstract_short = "The problem of modeling and stochastic optimization for home energy management is considered. "
+abstract = "The installation of phasor measurement units brings about system-wide synchronized real-time measurements, which makes advanced closed-loop control of wide-area power systems (WAPSs) possible. In addition to uncertainties with the physical system, network imperfections are also critical for control performance and even stability of the system. This paper targets at wide-area damping control of WAPS under both physical and cyber uncertainties. The cyber uncertainties addressed in this paper include both communication delay and package dropout. First, a linearized WAPS model is developed with considerations of random control signal arrivals. Then, a Q-learning-based control algorithm is designed to learn the optimal control under both physical and cyber uncertainties. Finally, to further counteract the communication uncertainties between the control center and actuators, a novel control law is designed based on the statistical analysis to make the long-term control performance approach that under ideal communications. The designed control algorithm is tested with both simplified linear model and detailed nonlinear model of WAPSs. Simulation results demonstrate the effectiveness of the designed algorithm."
+abstract_short = "This paper targets at wide-area damping control of WAPS under both physical and cyber uncertainties. "
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = ture
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,7 +34,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["home-energy-management"]
+projects = ["Wide-Area Power Systems Management"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -46,11 +46,11 @@ projects = ["home-energy-management"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Machine Learning","HEMS","Model Identification and Validation"]
+tags = ["Q Learning","Wide-Area Power System","Cyber-Physical Uncertain"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/6345471"
-url_preprint = "https://zheyu.netlify.com/publication/2012PESGM/YuEtal11PESSub.pdf"
+url_pdf = "https://ieeexplore.ieee.org/document/7938692"
+url_preprint = "https://jiajunduan.netlify.com/publication/2012PESGM/07938692.pdf"
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
@@ -64,7 +64,7 @@ url_preprint = "https://zheyu.netlify.com/publication/2012PESGM/YuEtal11PESSub.p
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/PESGM.2012.6345471"
+doi = "10.1109/TSG.2017.2711599"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
